@@ -1,9 +1,13 @@
 package controllers;
 
-func login(){
+func Login(){
 
 }
 
-func signup(){
-  
+func AuthCheck(){
+
+}
+
+func Signup(){
+
 }
